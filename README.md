@@ -44,7 +44,7 @@
 
 美国官网（不得不说，好看，爽）：www.pepsi.com
 
-![](./res/好多可乐(阴暗的爬行).jpg)
+![](./res/many pepsis.jpg)
 
 
 
