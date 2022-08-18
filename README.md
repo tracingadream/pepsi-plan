@@ -60,7 +60,7 @@ anki是世界上最好用的背诵软件！
 
 
 
-很多人不知道，旗下拥有以[肯德基](https://zh.wikipedia.org/wiki/肯德基)、[必胜客](https://zh.wikipedia.org/wiki/必胜客)、[塔可钟](https://zh.wikipedia.org/wiki/塔可鐘)（Taco Bell）等为主力的多个餐饮连锁品牌的**百胜餐饮集团**（英文：**Yum! Brands, Inc.**）其实是从百事可乐公司分离的
+很多人不知道，旗下拥有以肯德基、必胜客等为主力的多个餐饮连锁品牌的**百胜餐饮集团**（英文：**Yum! Brands, Inc.**）其实是从百事可乐公司分离的
 
 百事真是无处不在（确信
 
